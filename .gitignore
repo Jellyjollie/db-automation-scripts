@@ -1,0 +1,8 @@
+# Exclude backup files
+*.dump
+*.tar.gz
+
+# Exclude sensitive data
+sasl_passwd
+*.pem
+*.key
