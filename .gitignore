@@ -6,3 +6,7 @@
 sasl_passwd
 *.pem
 *.key
+*.dump
+*.tar.gz
+*.gz
+*.log
